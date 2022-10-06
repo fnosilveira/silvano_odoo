@@ -37,3 +37,8 @@
 	path = OCA/manufacture
 	url = git@github.com:OCA/manufacture.git
 	branch = 14.0
+
+[submodule "it-brasil/it_brasil"]
+	path = it-brasil/it_brasil
+	url = git@github.com:it-brasil/it_brasil.git
+	branch = main
